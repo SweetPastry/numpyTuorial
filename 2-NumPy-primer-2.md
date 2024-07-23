@@ -156,6 +156,7 @@ print(a7[bool_arr])
 
 ```python
 ### Your answer
+
 ```
 
 ## 2. Array operations
@@ -238,6 +239,7 @@ print(a5 / 2)     # note that result is array of floats
 
 ```python
 ## Your answer
+
 ```
 
 ### Exercise 2-4.
@@ -246,6 +248,7 @@ print(a5 / 2)     # note that result is array of floats
 
 ```python
 ## Your answer
+
 ```
 
 ## 3. Array functions
